@@ -70,7 +70,7 @@ import Typography from "layouts/sections/elements/typography";
 
 const routes = [
   {
-    name: "pages",
+    name: "contacto",
     icon: <Icon>dashboard</Icon>,
     columns: 1,
     rowsPerColumn: 2,
@@ -108,7 +108,7 @@ const routes = [
     ],
   },
   {
-    name: "sections",
+    name: "nuestra mercancia",
     icon: <Icon>view_day</Icon>,
     collapse: [
       {
@@ -239,7 +239,7 @@ const routes = [
     ],
   },
   {
-    name: "docs",
+    name: "miembros",
     icon: <Icon>article</Icon>,
     collapse: [
       {

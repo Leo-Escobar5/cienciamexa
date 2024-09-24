@@ -83,7 +83,7 @@ function Presentation() {
                 },
               })}
             >
-              Material Kit 2 React{" "}
+              CienciaMexa{" "}
             </MKTypography>
             <MKTypography
               variant="body1"
